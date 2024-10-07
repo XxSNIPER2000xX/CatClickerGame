@@ -1,2 +1,4 @@
 # Cat Clicker Game 🐱
-scary halloween game
+![start menu](https://github.com/XxSNIPER2000xX/CatClickerGame/blob/main/source/assets/title1.png)
+
+Made with Raylib
